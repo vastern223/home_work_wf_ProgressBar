@@ -1,0 +1,10 @@
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\bin\Debug\home_work_wf_ProgressBar.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\bin\Debug\home_work_wf_ProgressBar.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\bin\Debug\home_work_wf_ProgressBar.pdb
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.Form1.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.Properties.Resources.resources
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.csproj.GenerateResource.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.exe
+C:\Users\Kolotyuk\source\repos\home_work_wf_ProgressBar\home_work_wf_ProgressBar\obj\Debug\home_work_wf_ProgressBar.pdb
